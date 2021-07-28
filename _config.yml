@@ -22,7 +22,7 @@ app:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
 
-  screenshot: images/screenshot.png # Leave blank to auto-magically populate
+  screenshot: images/screenshot.png.png # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-screen-640x1136.png
   # 640x1136px
@@ -43,19 +43,19 @@ app:
 # Marketing
 #
 marketing_header: Track Covid On Your Finger Tips # Optional
-marketing_desc: i dont get paid enough for this shit
+marketing_desc: CovinTracker Can Do More Than Just Tracking Covid 19 It Can Search Vaccination Center Near You, It Can Show You Covid Related News And Even More.
 #
-# Social Links
+# Social 
 #
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
+  github: https://github.com/simplystudios/
   facebook:
   twitter:
   pinterest:
   instagram:
-  email:
+  email: new.tacticguru@gmail.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -80,7 +80,7 @@ device: iphone-se-silver-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: /images/backgrounds/covid.png.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: /images/backgrounds/covid.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
