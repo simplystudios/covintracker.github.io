@@ -3,7 +3,7 @@
 **Advance Covid 19 tracker with covid vaccine regesteration**
 
 
-![CovinTracker Landing Page Theme Screenshot](/images/screenshot.png.png "Awesome App Landing Page Theme Screenshot")
+![CovinTracker Landing Page Theme Screenshot](/images/image1.png "Awesome App Landing Page Theme Screenshot")
 
 
 ## License
