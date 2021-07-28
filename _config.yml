@@ -8,7 +8,7 @@
 # General App Info
 #
 app:
-  name: CovinTracker # REQUIRED - Enter your app name
+  name: CovinTracker(*Under Devlopment*) # REQUIRED - Enter your app name
   ios_id: no avilable yet # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.covin.tracker # Optional - Enter Android app id like: com.example.app
 
