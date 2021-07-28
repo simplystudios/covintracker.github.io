@@ -42,9 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+marketing_header: Track Covid On Your Finger Tips # Optional
+marketing_desc: i dont get paid enough for this shit
 #
 # Social Links
 #
@@ -81,7 +80,7 @@ device: iphone-se-gray-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: /images/backgrounds/background sample.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
