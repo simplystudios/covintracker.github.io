@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: CovinTracker # REQUIRED - Enter your app name
+  ios_id: no avilable yet # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: com.covin.tracker # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -75,7 +75,7 @@ enable:
 # * iphone-se-space-gray-vertical
 # * ipod-touch-blue-vertical
 #
-device: iphone-se-silver-vertical # REQUIRED
+device: iphone-se-gray-vertical # REQUIRED
 
 #
 # Theme Settings
