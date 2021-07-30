@@ -1,14 +1,12 @@
 #
 
 #
-app: 20210730_130755.png
-  
-  
-  name: Covintracker # REQUIRED - Enter your app name
+app: 
+  name: Covin Tracker # REQUIRED - Enter your app name
   ios_id: no avilable yet # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id  # Optional - Enter Android app id like: com.example.app
 
-  icon:
+  icon: 20210730_130755.png
 
   screenshot: images/covidss.png # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
