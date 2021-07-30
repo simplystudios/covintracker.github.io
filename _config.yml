@@ -1,9 +1,9 @@
 #
 
 #
-app: https://com-amazon-mas-catalog.s3.amazonaws.com/amzn1.devportal.fileupload.a382cba894f240498726365a41e26e44_15021196-d66c-4b81-9726-b4953dfa9939_0b2c6ab3c08c10c3f414642eb436e5ab
+app: 20210730_130755.png
   
-  name: CovinTracker
+  name: Covintracker
   # REQUIRED - Enter your app name
   ios_id: no avilable yet # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.covin.tracker # Optional - Enter Android app id like: com.example.app
